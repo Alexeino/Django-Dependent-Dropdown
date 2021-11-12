@@ -4,4 +4,12 @@ Django dependent dropdown using Django python and Ajax to load Sub Categories ba
 
 My Youtube Channel : https://www.youtube.com/channel/UCYPK0LnPwe-HKu7n-NpuuXA Be sure to Subscribe.
 
-Thanks
+Initial Page
+
+![Homepage](https://raw.githubusercontent.com/Alexeino/Django-Dependent-Dropdown/master/static/homepage.png)
+
+Sub Cat Dropdown based on chosen category 
+
+![Dropdown Active](https://raw.githubusercontent.com/Alexeino/Django-Dependent-Dropdown/master/static/dropdown%20active.png)
+
+Thank You
